@@ -5,15 +5,15 @@
 2. [**Technologies Used**](#technologies-used)
 3. [**Setup**](#setup)
 4. [**ScreenShots**](#screenshots)
-
 ## General Info
-A brief overview of the project and its purpose.
+Welcome to my first project! This is a protein page created using HTML and CSS. The goal is to showcase information about different types of proteins and their importance.
 
 ## Technologies Used
-List of technologies, frameworks, and tools used in the project.
+- HTML
+- CSS
 
 ## Setup
 Step-by-step guide on how to install and set up the project locally.
 
-## ScreenShots
+## Code & Snippets
 Collection of screenshots showcasing the project in action.
