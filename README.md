@@ -4,7 +4,7 @@
 1. [**General Info**](#general-info)
 2. [**Technologies Used**](#technologies-used)
 3. [**Setup**](#setup)
-4. [** Code & Snippets**](#Code&Snippets)
+4. [** Code & Snippets**](#CodeSnippets)
 ## General Info
 Welcome to my first project! This is a protein page created using HTML and CSS. The goal is to showcase information about different types of proteins and their importance.
 
