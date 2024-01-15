@@ -13,7 +13,7 @@ Welcome to my first project! This is a protein page created using HTML and CSS. 
 - CSS
 
 ## Setup
-Step-by-step guide on how to install and set up the project locally.
+Using Live Server you can see this project. When you first load up the project you'd find a logo, a robust night/light mode, and an add to cart. Then some categories headers, a title and some products displayed with a picuture for reference, quantity, description, prices. 
 
 ## Code & Snippets
-Collection of screenshots showcasing the project in action.
+
