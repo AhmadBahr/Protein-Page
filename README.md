@@ -17,3 +17,4 @@ Using Live Server you can see this project. When you first load up the project y
 
 ## Code & Snippets
 
+![Capture2](https://github.com/AhmadBahr/Protein-Page/assets/150359856/a7445c65-3079-49e4-b7ba-67c5f37c75cf) ![Capture](https://github.com/AhmadBahr/Protein-Page/assets/150359856/6e52a523-1260-4307-827f-3bab36716671)
