@@ -16,8 +16,7 @@ Welcome to my first project! This is a protein page created using HTML and CSS. 
 Using Live Server you can see this project. When you first load up the project you'd find a logo, a robust night/light mode, and an add to cart. Then some categories headers, a title and some products displayed with a picuture for reference, quantity, description, prices. 
 
 ## Code & Snippets
-
-
-![index html - Protein-Page - ahmad - Visual Studio Code 25-Jul-24 11_20_29 PM](https://github.com/user-attachments/assets/0de1e975-b7ce-4daa-90c1-ba9c69d6d6b7)
-![Protein Page - Google Chrome 25-Jul-24 11_20_56 PM](https://github.com/user-attachments/assets/ac14c9ff-6bf1-409b-b5c2-8f915c66f570)
-![Protein Page - Google Chrome 25-Jul-24 11_21_03 PM](https://github.com/user-attachments/assets/7dfbef4b-2302-4fc9-889d-6828ec5000b5)
+![index html - Protein-Page - ahmad - Visual Studio Code 29-Jul-24 3_24_11 PM](https://github.com/user-attachments/assets/543ae442-e674-45d9-8680-6e9a502a4c0c)
+![Protein Page - Google Chrome 29-Jul-24 3_26_04 PM](https://github.com/user-attachments/assets/b6a66b39-0414-49f8-ad6d-01e295feaf95)
+![Protein Page - Google Chrome 29-Jul-24 3_25_51 PM](https://github.com/user-attachments/assets/fb7ceb38-8d89-40a7-a019-644c2f51b56b)
+![index html - Protein-Page - ahmad - Visual Studio Code 29-Jul-24 3_24_00 PM](https://github.com/user-attachments/assets/b41b397e-76f7-4476-94b9-9fee2ea68387)
