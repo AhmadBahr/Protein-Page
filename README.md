@@ -18,5 +18,5 @@ Using Live Server you can see this project. When you first load up the project y
 ## Code & Snippets
 ![index html - Protein-Page - ahmad - Visual Studio Code 29-Jul-24 3_24_11 PM](https://github.com/user-attachments/assets/543ae442-e674-45d9-8680-6e9a502a4c0c)
 ![Protein Page - Google Chrome 29-Jul-24 3_25_51 PM](https://github.com/user-attachments/assets/82c9f3a5-35f6-4ac6-b69e-f2539cdbf9d1)
-![Protein Page - Google Chrome 29-Jul-24 3_25_51 PM](https://github.com/user-attachments/assets/fb7ceb38-8d89-40a7-a019-644c2f51b56b)
+![Protein Page - Google Chrome 29-Jul-24 3_26_04 PM](https://github.com/user-attachments/assets/ea64b866-95d2-4692-a56c-34efedf4cff3)
 ![index html - Protein-Page - ahmad - Visual Studio Code 29-Jul-24 3_24_00 PM](https://github.com/user-attachments/assets/b41b397e-76f7-4476-94b9-9fee2ea68387)
